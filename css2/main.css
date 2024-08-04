@@ -1,10 +1,5 @@
 
 
-
-
-/*//////////////////////////////////////////////////////////////////
-[ FONT ]*/
-
 @font-face {
   font-family: Montserrat-Regular;
   src: url('../fonts/montserrat/Montserrat-Regular.ttf'); 
@@ -27,8 +22,7 @@
 
 
 
-/*//////////////////////////////////////////////////////////////////
-[ RESTYLE TAG ]*/
+
 
 *{
   margin: 0;
